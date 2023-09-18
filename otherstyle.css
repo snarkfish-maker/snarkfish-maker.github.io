@@ -1,0 +1,13 @@
+body {
+    background-image: url(mountains.jpg);
+}
+
+
+    
+
+#soundwaves {
+    float: left; margin: 6px;
+}
+#theatre {
+    float: top;
+}
